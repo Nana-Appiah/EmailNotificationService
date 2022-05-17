@@ -1,0 +1,12 @@
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Marathon.exe
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\appsettings.json
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Marathon.dll
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Marathon.deps.json
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Marathon.runtimeconfig.json
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Marathon.pdb
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Dev_Repository\Projects\Nana\Automations\Marathon\Marathon\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
